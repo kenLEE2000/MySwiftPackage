@@ -1,2 +1,3 @@
 # MySwiftPackage
-the test package of swift
+
+A description of this package.
