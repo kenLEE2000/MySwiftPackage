@@ -8,3 +8,7 @@ public struct MySwiftPackage {
     public init() {
     }
 }
+
+func NonClassSayHello() {
+    print("Hello world non class ")
+}
